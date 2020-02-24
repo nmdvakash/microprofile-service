@@ -1,0 +1,13 @@
+
+injected:
+  value: Injected value
+
+value: lookup value
+
+quarkus:
+  ssl:
+    native: true
+
+
+server: 
+  port : 8181
