@@ -44,6 +44,10 @@ Also, a simple Hello world endpoint is created, have a look at the class **Hello
 More information on MicroProfile can be found [here](https://microprofile.io/)
 
 
+#Quick guide 
+
+https://www.baeldung.com/quarkus-io
+http://www.adam-bien.com/roller/abien/entry/microprofile_examples_tutorials_guides_apis
 
 
 
