@@ -20,7 +20,6 @@ public class HelloController {
 	}
 
 	@Path("/test/{name}")
-
 	@GET
 	public String sayHelloForPathVariable(@PathParam(value = "name") String name) {
 		return "Hello :: " + name;
